@@ -1,5 +1,5 @@
 # Readers-Writers-Concurrency
-This project focuses on the problem of readers/writers in programming around the topic of concurrency.
+This Operating Systems project focuses on the problem of readers/writers in programming around the topic of concurrency.
 
 This problem occurs in programming when different threads are created and all attempt to access shared resources simultaneously.
 I created a reader-writer lock for this project in order to manage access of all of the total threads. 
