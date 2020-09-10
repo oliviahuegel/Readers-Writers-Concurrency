@@ -1,0 +1,7 @@
+//rrrrrwwwwwwwwww
+
+//reader arrives first
+rwrrrrwrr
+
+//two writers arrive first
+wwrrrrwr
